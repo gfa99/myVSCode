@@ -29,3 +29,16 @@ OBKoro1.korofileheader
 twxs.cmake
 xaver.clang-format
 yzhang.markdown-all-in-one
+
+
+$ code --list-extensions 
+alefragnani.Bookmarks
+donjayamanne.githistory
+eamodio.gitlens
+eightHundreds.vscode-drawio
+iceliu.highlight-icemode
+mhutchie.git-graph
+mqycn.huile8
+ms-vscode.cpptools
+w88975.code-translate
+waderyan.gitblame
